@@ -1,2 +1,0 @@
-# Blockcerts
-Blockcerts Implementation
